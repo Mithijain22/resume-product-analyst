@@ -7,7 +7,7 @@
 ## EDUCATION
 
 **VIT Bhopal University — School of Computer Science Engineering**  
-B.Tech in Computer Science and Engineering, CGPA: 8.23/10.0 · 2023 – 2027
+B.Tech in Computer Science and Engineering, CGPA: 8.23/10.0 ·        2023 – 2027
 
 **St. Joseph's Convent Sr. Sec. School**  
 10th Standard: 94.6% · 2021
