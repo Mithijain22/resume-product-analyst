@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="resume.png" alt="Mithi Jain Resume" width="850">
+<img src="mithi_jain_resume_product.png" alt="Mithi Jain Resume" width="850">
 
 </div>
 
